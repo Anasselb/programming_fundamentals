@@ -1,0 +1,2 @@
+ + what is the command to quit vim even trough latest changes have not been saved for this vim call ?
+ + answer : "q!"
